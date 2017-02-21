@@ -1,0 +1,11 @@
+m A 1
+m B 15
+m C 23
+m D 1
+m E 40
+f B
+f A
+f C
+m F 1
+m G 30
+q
